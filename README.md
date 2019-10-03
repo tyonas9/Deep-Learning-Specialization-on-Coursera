@@ -1,0 +1,2 @@
+# Deep-Learning-Specialization-on-Coursera
+In this repo, I’ve included all the programming projects for the deep learning specialization course I took on Coursera by the infamous AI pioneer Andrew Ng. The Specialization has five courses: Neural Networks &amp; Deep Learning Improving Deep Neural Networks : Hyperparameter tuning, regularization &amp; Optimization Structuring Machine Learning Projects Convolutional Neural Networks Sequence Models
