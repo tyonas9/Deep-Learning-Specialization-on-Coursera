@@ -55,7 +55,7 @@ In this repo, I’ve included all the programming projects for the deep learning
  3. Week3 - Sequence models & Attention mechanism</br>
    3.1 [Machine translation](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Squence%20models/Week_three/Machine%20translation/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)</br>
    
-## [Link for the deep learning specialization certification](https://www.coursera.org/account/accomplishments/specialization/J2Z4JJRM53X5)
+### NOTE: [Link for the deep learning specialization certification](https://www.coursera.org/account/accomplishments/specialization/J2Z4JJRM53X5)
      
  
 <p align="center"> **************************************************************************************************************************</p>
