@@ -1,24 +1,8 @@
-# Deep-Learning-Specialization-on-Coursera
-
-In this repo, I’ve included all the programming projects for the deep learning specialization course I took on Coursera by the infamous AI pioneer Andrew Ng. The Specialization has five courses: 
-   1) Neural Networks &amp; Deep Learning 
-   2) Improving Deep Neural Networks : Hyperparameter tuning, regularization &amp; Optimization 
-   3) Structuring Machine Learning Projects 
-   4) Convolutional Neural Networks 
-   5) Sequence Models
-
-## NOTE : About the specialization
-
-"If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
-
-In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow "
-
 # Deep Learning Specialization on Coursera 
+
 ### [Deep Learning](https://www.coursera.org/specializations/deep-learning)
 
 In this repo, I’ve included all the programming projects for the deep learning specialization course I took on Coursera by the infamous AI pioneer Andrew Ng. The Specialization has five courses: 
-
-Instructor: [Andrew Ng, DeepLearning.ai]()
 
  ## Course 1. [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
  
@@ -29,7 +13,9 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
 
 ## Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 
-1. Week1 - [Initialization](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Initialization.ipynb), [Regularization](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Regularization.ipynb), [Gradient Checking](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Gradient%20Checking.ipynb) 
+1. Week1 - [Initialization](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Initialization.ipynb), 
+        [Regularization](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Regularization.ipynb), 
+        [Gradient Checking](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Gradient%20Checking.ipynb) 
 2. Week2 - [Optimization algorithms](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Optimization%20methods.ipynb)
 3. Week3 - [Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Optimization%20methods.ipynb)
 
@@ -46,12 +32,14 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
          
  ## Course 4. [Convolutional Neural Networks](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
  
- 1. Week1 - [Foundations of Convolutional Neural Networks : Convolutional model - Step by step](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Convolutional%20Neural%20Networks/week_one%20:%20Foundations%20of%20Convolutional%20Neural%20Networks/%20Convolution%20model%20-%20Step%20by%20Step%20-%20v2.ipynb), [Foundations of Convolutional Neural Networks : Convolutional model - Application](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Convolutional%20Neural%20Networks/week_one%20:%20Foundations%20of%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
+ 1. Week1 - [Foundations of Convolutional Neural Networks : Convolutional model - Step by step](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Convolutional%20Neural%20Networks/week_one%20:%20Foundations%20of%20Convolutional%20Neural%20Networks/%20Convolution%20model%20-%20Step%20by%20Step%20-%20v2.ipynb), 
+ [Foundations of Convolutional Neural Networks : Convolutional model - Application](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Convolutional%20Neural%20Networks/week_one%20:%20Foundations%20of%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
  2. Week2 - [Deep convolutional models: case studies - Residual Networks](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Convolutional%20Neural%20Networks/Week_two%20:%20Deep%20Convolutional%20Models%20:%20Case%20Studies/Residual%20Networks%20-%20v1.ipynb) - Papers for read:  [ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
  3. [Week3 - Object detection : car detection wity YOLOv2](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Convolutional%20Neural%20Networks/Week_three%20:%20Object%20Detection/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v1.ipynb) - Papers for read: [You Only Look Once:
 Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOLO](https://arxiv.org/pdf/1612.08242.pdf)
- 4. Week4 - [Special applications: Face recognition & Neural style transfer],[Face recognition](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Convolutional%20Neural%20Networks/Week_four%20:%20Special%20applications%20:%20Face%20recognition%20%26%20Neural%20style%20transfer/Face%20Recognition/Face%20Recognition%20for%20the%20Happy%20House%20-%20v2.ipynb), [Special applications: Face recognition & Neural style transfer],[Art generation with neural style transfer](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Convolutional%20Neural%20Networks/Week_four%20:%20Special%20applications%20:%20Face%20recognition%20%26%20Neural%20style%20transfer/Neural%20style%20transfer/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v1.ipynb)- Papers for read: [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
+ 4. Week4 - [Special applications: Face recognition & Neural style transfer],[Face recognition](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Convolutional%20Neural%20Networks/Week_four%20:%20Special%20applications%20:%20Face%20recognition%20%26%20Neural%20style%20transfer/Face%20Recognition/Face%20Recognition%20for%20the%20Happy%20House%20-%20v2.ipynb), 
+ [Special applications: Face recognition & Neural style transfer],[Art generation with neural style transfer](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Convolutional%20Neural%20Networks/Week_four%20:%20Special%20applications%20:%20Face%20recognition%20%26%20Neural%20style%20transfer/Neural%20style%20transfer/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v1.ipynb)- Papers for read: [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
  
  ## Course 5. [Sequence Models](https://www.youtube.com/watch?v=DejHQYAGb7Q&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
  1. Week1 - [Recurrent Neural Networks](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week1)
