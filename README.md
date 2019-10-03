@@ -22,15 +22,15 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
 
  ## Course 1. [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
  
-1. Week1 - [Introduction to deep learning](No programming assignment)
+1. Week1 - Introduction to deep learning (No programming assignment)
 2. Week2 - [Neural Networks Basics](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Neural%20Networks%20%26%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
 3. Week3 - [Shallow neural networks](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Neural%20Networks%20%26%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
 4. Week4 - [Deep Neural Networks](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Neural%20Networks%20%26%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 ## Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 
-1. Week1 - [Practical aspects of Deep Learning](https://github.com/enggen/Deep-Learning-deeplearning.ai/tree/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
-         - [Setting up your Machine Learning Application] - Initialization (https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Initialization.ipynb)
+1. Week1 - [Practical aspects of Deep Learning] (https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Initialization.ipynb)
+         - [Setting up your Machine Learning Application] - Initialization ()
          - [Regularizing your neural network] (https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Regularization.ipynb)
          - [Gradient Checking]  (https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Gradient%20Checking.ipynb)
 2. Week2 - [Optimization algorithms](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Optimization%20methods.ipynb)
