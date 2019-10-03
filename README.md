@@ -36,7 +36,7 @@ In this repo, I’ve included all the programming projects for the deep learning
  1. Week1 - Foundations of Convolutional Neural Networks</br>
     1.1 [Convolutional model - Step by step](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Convolutional%20Neural%20Networks/week_one%20:%20Foundations%20of%20Convolutional%20Neural%20Networks/%20Convolution%20model%20-%20Step%20by%20Step%20-%20v2.ipynb)</br> 
     1.1 [Convolutional model - Application](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Convolutional%20Neural%20Networks/week_one%20:%20Foundations%20of%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
- 2. Week2 - [Deep convolutional models: case studies]
+ 2. Week2 - [Deep convolutional models: case studies]</br>
     2.1 [Residual Networks](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Convolutional%20Neural%20Networks/Week_two%20:%20Deep%20Convolutional%20Models%20:%20Case%20Studies/Residual%20Networks%20-%20v1.ipynb) 
  3. Week3 - Object detection</br> 
     3.1 [car detection wity YOLOv2](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Convolutional%20Neural%20Networks/Week_three%20:%20Object%20Detection/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v1.ipynb)
