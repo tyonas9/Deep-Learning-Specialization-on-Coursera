@@ -53,7 +53,9 @@ In this repo, I’ve included all the programming projects for the deep learning
     2.1 [Emojify](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Squence%20models/Week_two/Natural%20Langauage%20Processing%20%26%20Word%20Embeddings/Emojify/Emojify%20-%20v2.ipynb)</br>
    2.2 [Word vector representation - Operations on word vectors : Debiasing](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Squence%20models/Week_two/Natural%20Langauage%20Processing%20%26%20Word%20Embeddings/Word%20vector%20representation/Operations%20on%20word%20vectors%20-%20v2.ipynb)
  3. Week3 - Sequence models & Attention mechanism</br>
-   3.1 [Machine translation](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Squence%20models/Week_three/Machine%20translation/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)
+   3.1 [Machine translation](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Squence%20models/Week_three/Machine%20translation/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)</br>
+   
+## [Link for the deep learning specialization certification](https://www.coursera.org/account/accomplishments/specialization/J2Z4JJRM53X5)
      
  
 <p align="center"> **************************************************************************************************************************</p>
