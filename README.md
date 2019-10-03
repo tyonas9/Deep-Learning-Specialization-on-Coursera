@@ -29,16 +29,16 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
 
 ## Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 
-1. Week1 - [Initialization](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Initialization.ipynb),[Regularization](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Regularization.ipynb),[Gradient Checking](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Gradient%20Checking.ipynb) 
+1. Week1 - [Initialization](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Initialization.ipynb), [Regularization](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Regularization.ipynb), [Gradient Checking](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Gradient%20Checking.ipynb) 
 2. Week2 - [Optimization algorithms](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Optimization%20methods.ipynb)
 3. Week3 - [Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20:%20Hyperparameter%20tunning%2C%20Regularization%20%26%20Optimization/Optimization%20methods.ipynb)
 
 ## Course 3. [Structuring Machine Learning Projects](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
 
-1. Week1 - [Introduction to ML Strategy](https://github.com/enggen/Deep-Learning-Coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
+1. Week1 - [Introduction to ML Strategy](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
          - Setting up your goal
          - Comparing to human-level performance
-2. Week2 - [ML Strategy (2)](https://github.com/enggen/Deep-Learning-Coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
+2. Week2 - [ML Strategy (2)](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
          - Error Analysis
          - Mismatched training and dev/test set
          - Learning from multiple tasks
