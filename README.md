@@ -43,10 +43,10 @@ In this repo, I’ve included all the programming projects for the deep learning
      1.2 [Dinosaur Island - Character Level Language Modeling](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Squence%20models/Week_one/Dinosaur%20Island%20-%20Character%20level%20Language%20Modeling/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
      1.3 [Jazz improvisation with LSTM](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Squence%20models/Week_one/Jazz%20Improvisation%20with%20LSTM/Jazz%20improvisation%20with%20LSTM%20-%20v1.ipynb)
  2. Week2 - Natural Language Processing & Word Embeddings
-     2.1 [Emojify](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Squence%20models/Week_two/Natural%20Langauage%20Processing%20%26%20Word%20Embeddings/Emojify/Emojify%20-%20v2.ipynb)
-     2.2 [Word vector representation - Operations on word vectors : Debiasing](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Squence%20models/Week_two/Natural%20Langauage%20Processing%20%26%20Word%20Embeddings/Word%20vector%20representation/Operations%20on%20word%20vectors%20-%20v2.ipynb)
+ 2.1 [Emojify](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Squence%20models/Week_two/Natural%20Langauage%20Processing%20%26%20Word%20Embeddings/Emojify/Emojify%20-%20v2.ipynb)
+ 2.2 [Word vector representation - Operations on word vectors : Debiasing](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Squence%20models/Week_two/Natural%20Langauage%20Processing%20%26%20Word%20Embeddings/Word%20vector%20representation/Operations%20on%20word%20vectors%20-%20v2.ipynb)
  3. Week3 - Sequence models & Attention mechanism
-     3.1 [Machine translation](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Squence%20models/Week_three/Machine%20translation/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)
+ 3.1 [Machine translation](https://github.com/tyonas9/Deep-Learning-Specialization-on-Coursera/blob/master/Squence%20models/Week_three/Machine%20translation/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)
      
  
 <p align="center"> **************************************************************************************************************************</p>
