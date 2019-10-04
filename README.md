@@ -1,4 +1,4 @@
-# Deep Learning Specialization on Coursera 
+# Deep Learning Specialization Portfolio Projects on Coursera
 
 In this repo, I’ve included all the programming projects and the certification attained for the deep learning specialization course I took on Coursera by the infamous AI pioneer Andrew Ng. The Specialization has five courses: 
 
